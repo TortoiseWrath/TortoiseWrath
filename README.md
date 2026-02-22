@@ -1,8 +1,9 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="width: 1.4em;" alt="*"> Google - SWE III - YouTube Site Infrastructure (2025-present)</span> <img src="https://skillicons.dev/icons?i=cpp,py" style="height: 1em;" alt="(C++, Python)" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="width: 1.4em;" alt="*"> Google - SWE II - YouTube Site Infrastructure (2021-2025) <img src="https://skillicons.dev/icons?i=cpp,py,ts" style="height: 1em;" alt="(C++, Python, TypeScript)" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Google_Fuchsia_Logo.svg" style="width: 1.4em;" alt="*"> Google - SWE Intern - Fuchsia Performance (2020) <img src="https://skillicons.dev/icons?i=dart,cpp" style="height: 1em;" alt="(Dart, C++)" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg" style="width: 1.4em;" alt="*"> Amazon - SDE Intern - Worldwide Returns and Recommerce (2019) <img src="https://skillicons.dev/icons?i=java" style="height: 1em;" alt="(Java)" />  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Alabama_Athletics_logo.svg" style="width: 1.4em;" alt="*"> University of Alabama - Computer Science - MS (2021), BS (2020) <img src="https://skillicons.dev/icons?i=cpp,java,c,dart,php" style="height: 1em;" alt="(C++, Java, C, Dart, PHP)" />  
-🐾 [Forget Me Not Animal Shelter](https://forgetmenotshelter.org) IT & web dev contributor <img src="https://skillicons.dev/icons?i=ts" style="height: 1em;" alt="(TypeScript)" />  
-📕 [The Anonymous Press](https://anonpress.org) IT & web dev contributor <img src="https://skillicons.dev/icons?i=php,py" style="height: 1em;" alt="(PHP, Python)" />  
-<img src="https://skillicons.dev/icons?i=md" style="width: 1.35em;" alt="*" /> Author of this readme file (very fancy)
+* Google - SWE III - YouTube Site Infrastructure (2025-present) 
+* Google - SWE II - YouTube Site Infrastructure (2021-2025
+* Google - SWE Intern - Fuchsia Performance (2020)  
+* Amazon - SDE Intern - Worldwide Returns and Recommerce (2019)  
+* University of Alabama - Computer Science - MS (2021), BS (2020) 
+* IT & web dev contributor for [Forget Me Not Animal Shelter](https://forgetmenotshelter.org) and [The Anonymous Press](https://anonpress.org)
+* Author of this readme file (very fancy)
+
+&#x2003;&#x2003;<img src="https://skillicons.dev/icons?i=cpp,py,ts,php,postgres,dart,java,perl,bash,powershell,c" alt="C++, Python, TypeScript, PHP, Postgres, Dart, Java, Perl, Bash, Powershell, C" />  
