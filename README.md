@@ -6,4 +6,4 @@
 * IT & web dev contributor for [Forget Me Not Animal Shelter](https://forgetmenotshelter.org) and [The Anonymous Press](https://anonpress.org)
 * Author of this readme file (very fancy)
 
-&#x2003;&#x2003;<img src="https://skillicons.dev/icons?i=cpp,py,ts,php,postgres,dart,java,perl,bash,powershell,c" alt="C++, Python, TypeScript, PHP, Postgres, Dart, Java, Perl, Bash, Powershell, C" />  
+&#x2003;&#x2003;<img src="https://skillicons.dev/icons?i=cpp,py,ts,php,postgres,dart,java,perl,bash,powershell" alt="C++, Python, TypeScript, PHP, Postgres, Dart, Java, Perl, Bash, Powershell" />  
