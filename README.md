@@ -1,5 +1,5 @@
 * Google - SWE III - YouTube Site Infrastructure (2025-present) 
-* Google - SWE II - YouTube Site Infrastructure (2021-2025
+* Google - SWE II - YouTube Site Infrastructure (2021-2025)
 * Google - SWE Intern - Fuchsia Performance (2020)  
 * Amazon - SDE Intern - Worldwide Returns and Recommerce (2019)  
 * University of Alabama - Computer Science - MS (2021), BS (2020) 
